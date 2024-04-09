@@ -1,0 +1,91 @@
+Linguagem Markdown
+
+-> deixar um texto em negrito
+** ou __
+
+-> deixar um texto em italico
+* ou _
+
+-> fazer de um texto um título
+# ou ## ou ###
+
+- cortar palavra
+~~
+
+-> linha
+--- ou ***
+
+-> negrito e italico
+
+__*palavra*__
+
+-> lista numerada
+
+1. 
+1. 
+1.
+   1. subitem
+1.
+
+-> lista demarcada * ou -
+
+*teste
+*teste
+*teste
+   *sub teste
+*teste
+
+-> lista de tarefas
+
+- [] Criar a página princial
+- [x] Tarefa concluída
+   - [] Sub lista
+
+-> imagens
+	adicionar com o mouse e mudar a descrição
+
+-> link
+
+[acesse o site aqui](https://google.com)
+
+-> tabela
+
+Num | Nome | Nota
+---|---|---
+1 | Henrique | 10
+2 | José | 8.6
+3 | Maria | 9
+
+Terminou a tabela
+
+-> comando
+
+Não entendo direito o comando `getElementById()` do JavaScript
+
+-> trecho de comando
+
+Meu primeiro programa em Python
+
+``` 
+msg = 'Hello World!'
+print(msg)
+```
+
+-> colocar emoji
+
+Gosto de emojis :nome_do_emoji
+
+repositório para emojis https://github.com/ikatyang/emoji-cheat-sheet
+
+em título em issues não dá
+	somente com o emojipédia https://emojipedia.org/
+
+-> comentar sobre a postagem de alguém
+
+	- quote reply no três pontinhos da postagem
+
+-> criar quote
+	> Será que vai chover
+	
+
+
